@@ -1,0 +1,5 @@
+this is version 1 of my project  
+i want to go for commit
+i am going to change 
+i am going to learn git diff
+this is changed now 
